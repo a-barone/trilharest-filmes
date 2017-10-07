@@ -1,0 +1,6 @@
+build/
+.gradle/
+Filmes.iws
+Filmes.ipr
+Filmes.iml
+out/
